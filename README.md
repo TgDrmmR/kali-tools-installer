@@ -5,7 +5,7 @@ Facilita a vida de quem quer configurar um ambiente de Pentest rapidamente!
 
 ---
 
-## 🛠️ Feerramentas Instaladas
+## 🛠️  Ferramentas Instaladas
 
 - [x] Nmap
 - [x] Metasploit Framework
